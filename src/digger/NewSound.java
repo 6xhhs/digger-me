@@ -11,7 +11,7 @@ import general.ui.GaugableResource;
  * Digger ME Sound System
  * 
  * I have tried to keep this as closely similar to the original sounds as possible, but 
- * it is possible to make it exact.
+ * it is impossible to make it exact.
  * 
  * @author Haim Avron
  */
