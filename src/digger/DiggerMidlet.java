@@ -55,7 +55,7 @@ public class DiggerMidlet extends MIDlet implements CommandListener, MenuListene
     // Menu items
     private final TextMenuItem restartMenuItem = new TextMenuItem("Restart");
     private final TextMenuItem muteMenuItem = new TextMenuItem("Mute: OFF");
-    private final TextMenuItem soundModeMenuItem = new TextMenuItem("Music: TONE");
+    private final TextMenuItem soundModeMenuItem = new TextMenuItem("Music: MIDI");
     private final TextMenuItem rotateMenuItem = new TextMenuItem("Rotate: OFF");
     private final TextMenuItem activeAreaMenuItem = new TextMenuItem("Drawing Area: FULL");
     private final TextMenuItem settingsMenuItem = new TextMenuItem("Settings");
